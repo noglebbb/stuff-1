@@ -1,0 +1,128 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object Name=\"ObjType\" placeholders=\"1\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(pZZdb4MgFIZ/DZdbFGJ6vTh32V5sSa9RzyorgkHXj38/EJtqZ1uExMSc9yDPefEIIpK2FW0A4UjQGhB5Rxhv8h8ouq+zkbHOHK0cR5GNq5uYto0eb8UDVYzmvH+SZCh603lzkbSQQuhhTIp2khnl205RJjodn+xsA+A8iRpQrIYO1FCGVa/lr7e98uFOecWJF8iD5AdajFl5GsoWkmIvzFLKtA1iN8pncBu4gjxIfqDQNnA2FNYGrpiwNri+rmeg7fLv9IbkCgrErFw5izsu9ly6LHRHcF26UIzr0mWzXUdSrdw7oEia02K/U/JXlLP16eLkHo6s7Cot2HsPIw9MKXNkPj7onpy78/N+M85tQbMm71jRz0kFDzx2cDLl6pltEQgna7Ool0YafCRTI5eQcrYTVipAmLfTy4eRXrOy5DAa/mJ/TCY7CqcFVJKXoNpxYsbnPzu9OkxphD8=);whiteSpace=wrap;html=1;noLabel=1;_ElementType=ObjectType;allowArrows=0;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Object Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object Name=\"Object Type\" placeholders=\"1\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(zZddb8IgFIZ/DZdbWogxu1xcd+kutsRrbNGyUWho58e/H5Q6287qGWJiYmI5vPDwHg8UEZlVOS0ZwpGkBUPkBWH8tvxkaf2xt2FserYuHEeRa+eDNq1Ko3fBDdWcLkUzkiQoejb99vP7QGapktLouZJVTzIQduRVrSmXtWnvHKUF73utkmlesJrpdnkuerQ1X7gIwq/e3Ec88UIHYfuhA4CnnqaTq9mxF/h6br/AYhj3/QYFBkUHYfuhwxcY2HToAoOCQxfY8We/hF6EOEkGbCg6OHgKJQeo7tgz4Un4Uwya8PBgaMITYIWTmRGMvc87qiVNv9ZafcsM4sTYUF9sy7M6NwH33SyL/Csh2l5Kzl8ZLt1sgKQVF8ItGj6mpNbVH91J9WFMoTbs6IiccnSafnZWweXorBcyMeLNiEfs3UnqnqY3yd1g2rtKXjPxyD7siFZKM/hOrdnObjGzBucY4cncHiKHw7XNy6S/+Q5NKvhaulDKpD2NmvCmEy94lgnWkT+4vyu9t7WgKcuVyJiueh2QjIz4NQ9Nd0uzPT8=);whiteSpace=wrap;html=1;noLabel=1;_ElementType=ObjectType;allowArrows=0;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Autonomous Object Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object Name=\"Bas/SysType\" placeholders=\"1\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(pZZNj4MgEIZ/jcfdqKTpeeO6x166Sc9UZispogG2H/9+QWiqXWsRkiZlXhyemWHqNEGFrHEHSZ5y3ECCPpM8316lgub7auRc75ytnKWptesHG8sOKmXFExYU71nvicok/dD75oOKquVcP0ZbLkc7g32pBKZcaftiT3OA68jqQNAGFAgXhlXv4W92vfLlT3nPV0GgAFIYaDFmHZhQuZCUBWGWUsZtkPlRttFt4AsKIIWBYtvAO6G4NvDFxLXB/bpegXbLf6cPJF9QJGbty1nccVlg6crYN4Jv6WIxvqUrJ7sOFVp5NqBQscfV8SDaX04m4yNY1h1WGspNBG7lZqRWsnQmOeMMRK/dYhD2tIMuRXuEMyWq1oL97p3QjJMwA3p+rL6Y8tPn/lDGbECTJX1SOO3XCpipqIKLCVefbINI8tXGXOGtbV0eq3EiNxMzenD1r4CbXujl00BvKCEMBo+/2b9Bo/cXwxXULSMg5PNr6fP8l06vuiON8Ac=);whiteSpace=wrap;html=1;noLabel=1;_ElementType=SystemType;allowArrows=0;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Base/System Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object Name=\"EnumType\" placeholders=\"1\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(pVZdb4MgFP01Pm5RWdfscXH2sS9b0meqd5UU0aD9+vcDwVQ7tAiJiXDgcs69Hr0GKGkKXEMQhwyXEKCvII5Tdip/bhKMBX5RYBSGal48zHFTQ9Yq8Iw5wXvaRaI0CD/FurxQklWMiW2kYs1oZbDetBwT1or5VZ2mCW6jWQ2clNAC1zIUehe/3XXIxp7lNV45ETkwuREtplk7JpQuZIqcaJayjG0Q2bF8e9vAlsiByY3I1wbWCfnZwJbGzwb3x/WMaLf8PX1gsiXypFnb8ix2XORYutT3i2BbOl8a29KlRtehRCBTDQole5wdD7w6sdyoL8dNUeNWkDKpQI90jxRIFM4kJ4MhF2M9GMg2B4hSVEe4kLwtBKDuXRCaCeKyQc+31Sdd3nzuL6FUCZraIcpRGBb65bI6w13YBzIoM53bh1PCpsPnpQt8QltfY6NLJrwgSlFxmDFJC1f5BMTJSlwQr7bSlf2bqFN4ex+lsOp/sSg5aEtlwKS9O/g8wEuS5xQG21/Uf93ok0xxBkVFc+DNtNO6PP+l06H6SAn8AQ==);whiteSpace=wrap;html=1;noLabel=1;_ElementType=EnumType;allowArrows=0;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Enumeration Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object Name=\"SetType\" placeholders=\"1\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(pVZNj4MgEP01HnejEuN547rHXrpJz1RnKymiQbYf/35BMNUuWsTERHgwvDfj0zFAWVfhFoI4ZLiGAH0GcbwH8X1XWCzhq8aiMNTz6mmOuxYKocEL5gQfaR+J8iD8kOvqQlnRMCa3kYZ1k5XReic4JkzI+U2fZgjuk1kLnNQggBsZGn1o3x165Mud5T1OvIg8mPyIVtOkngnlK5kiL5q1LFMbRG4s+802cCXyYPIj2moD54S22cCVZpsNHo/rFdFh/Xv6xORKtJEmdeVZ7bjIs3T51i+Ca+m20riWLre6DmUSmWtQKDvi4nzizS8rrfpK3FUtFpKUKQVmZHqkRKJwITkVDKUcm8FItj1AlqI5w5WUopKAvvdBaCGIqwa93FZfdHn7uT+EUi1obocsR2VZGJbr5gIPYalFmO3YIZoSNhu9LFziM8qGCls9MuMEWYiGw4JFBNxU/eXJWlwQJzvlyeE9NBkkaJJCMvxgUXIyhiqAKXP38GWE16QsKYy2v+mfuskHmeICqoaWwLt5n/V5/kunR82RCvgD);whiteSpace=wrap;html=1;noLabel=1;_ElementType=SetType;allowArrows=0;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Set Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" Name=\"AssType\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(nVTBcoMgEP0aju2gjB+Qsekxl3amZ4LbyATBAWri3xdEGjXYms542ffc93bZBURKU9MWUI4lbQCRF5TnO2MU49RyJd97z+WOrgOXYRziyyKmpgVmA9hRzelRjJnGanWGC6/sqMFlDZpbz5I9wjv3j/9IyZSUTsT5mhkz4Z0Y5dLl4msQw89FsOnHOEStc2jAgh7LDOitx8MAvG63mZtE079sPh60yf5ns3+0m8WhZdts3hI2pHTI2uBIeaTsfNLqS1bJ4lrql+KOiHSjOrhVXeDEpFNNx3TB5ST9Z1X7mdx2gYV/1Nsu8LA/E8rA2mAdvnJ8pPzkQoR7l5zXylRcntLwy7gsXG240aEFlBcHvx35uE7pg4ohFfwkA8RA+jUb4G6CN7yq4rsxwE/heZptqaAMaiUq0GZKJPq8a2dAR0kPfAM=);whiteSpace=wrap;html=1;noLabel=1;_ElementType=AssociationType;glass=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=8;fontColor=none;align=left;allowArrows=0;snapToPoint=1;perimeter=rhombusPerimeter;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"75\" height=\"35\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 75,
+    "h": 35,
+    "aspect": "fixed",
+    "title": "Association Type"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" Role=\"Role\" BoundaryUp=\"*\" BoundaryLow=\"0\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=none;html=1;strokeWidth=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;noLabel=1;_ElementType=AssociationParticipant;fontSize=8;metaEdit=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"13.857144716450875\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"56\" y=\"14.142859002165096\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"3\" style=\"shape=stencil(xZFNTgQhEIVPw9IEIR3XY6srF8boAcqmnK7YAwTK6RlPL1A9sf2JcWdCQup78HhVKNvnESIqoz3sUNkrZcwdJKaBInh+wAMXUuRRtHOtpZ6/1JAjDixwD4ngaUJRMqfwgjM5XjzIj5io+dprpTflTF22fw4Jtym8evdJ+JA9Z3qrYdvWzEzXXrn58Qa3+DWBHFamu6z2kI63YS6VspsVe4xqsdMHudAt3R2ltKdmJ9p6QQN6xiR4v+I7cu40gYbPZNAyNeFxggHHMDlMeS38uZn7UJ/4NfLFf0S2fSHffrPRxbKCdw==);whiteSpace=wrap;html=1;noLabel=1;fontSize=9;connectable=0;allowArrows=0;perimeter=none;editable=1;metaEdit=1;portConstraintRotation=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"30\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-19.5\" y=\"-14\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 56,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Association Participant"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" Role=\"Role\" BoundaryUp=\"*\" BoundaryLow=\"0\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=none;html=1;strokeWidth=3;labelBorderColor=none;labelBackgroundColor=none;fontColor=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;noLabel=1;_ElementType=AssociationParticipant;fontSize=8;metaEdit=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"13.857144716450875\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"56\" y=\"14.142859002165096\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"3\" style=\"shape=stencil(xZFNTgQhEIVPw9IEIR3XY6srF8boAcqmnK7YAwTK6RlPL1A9sf2JcWdCQup78HhVKNvnESIqoz3sUNkrZcwdJKaBInh+wAMXUuRRtHOtpZ6/1JAjDixwD4ngaUJRMqfwgjM5XjzIj5io+dprpTflTF22fw4Jtym8evdJ+JA9Z3qrYdvWzEzXXrn58Qa3+DWBHFamu6z2kI63YS6VspsVe4xqsdMHudAt3R2ltKdmJ9p6QQN6xiR4v+I7cu40gYbPZNAyNeFxggHHMDlMeS38uZn7UJ/4NfLFf0S2fSHffrPRxbKCdw==);whiteSpace=wrap;html=1;noLabel=1;fontSize=9;connectable=0;allowArrows=0;perimeter=none;editable=1;metaEdit=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"30\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-19.5\" y=\"-14\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 56,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Strong Association Participant"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" Role=\"Role\" BoundaryUp=\"*\" BoundaryLow=\"0\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=none;html=1;strokeWidth=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;noLabel=1;_ElementType=AssociationParticipant;fontSize=8;dashed=1;metaEdit=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"13.857144716450875\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"56\" y=\"14.142859002165096\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"3\" style=\"shape=stencil(xZFNTgQhEIVPw9IEIR3XY6srF8boAcqmnK7YAwTK6RlPL1A9sf2JcWdCQup78HhVKNvnESIqoz3sUNkrZcwdJKaBInh+wAMXUuRRtHOtpZ6/1JAjDixwD4ngaUJRMqfwgjM5XjzIj5io+dprpTflTF22fw4Jtym8evdJ+JA9Z3qrYdvWzEzXXrn58Qa3+DWBHFamu6z2kI63YS6VspsVe4xqsdMHudAt3R2ltKdmJ9p6QQN6xiR4v+I7cu40gYbPZNAyNeFxggHHMDlMeS38uZn7UJ/4NfLFf0S2fSHffrPRxbKCdw==);whiteSpace=wrap;html=1;noLabel=1;fontSize=9;connectable=0;allowArrows=0;perimeter=none;editable=1;metaEdit=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"30\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-19.5\" y=\"-14\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 56,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Derived Participant"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object id=\"2\"&gt;&lt;mxCell style=\"rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=7;fontColor=#000000;fillColor=#ffffff;align=center;glass=0;noLabel=1;_ElementType=NamingConvention;double=0;allowArrows=0;snapToPoint=1;editable=1;resizeWidth=0;rotatable=0;points=[[0,0.5],[0.5,0],[1,0.5],[0.5,1]];metaEdit=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Naming Convention"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object id=\"2\"&gt;&lt;mxCell style=\"rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=7;fontColor=#000000;fillColor=#ffffff;align=center;glass=0;noLabel=1;_ElementType=NamingConvention;double=0;allowArrows=0;snapToPoint=1;editable=0;resizeWidth=0;rotatable=0;points=[[0,0.5],[0.5,0],[1,0.5],[0.5,1]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30.000000000000004,
+    "h": 30.000000000000004,
+    "aspect": "fixed",
+    "title": "Naming Convention"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 0.4,
+    "aspect": "fixed",
+    "title": "Identifying Participant"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=none;noLabel=1;allowArrows=0;snapToPoint=0;container=1;dropTarget=1;collapsible=0;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"85.5\" height=\"45.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 85.5,
+    "h": 45.5,
+    "aspect": "fixed",
+    "title": "Objectification"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;endFill=0;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"40\" y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Represented By"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"40\" y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Generalization"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" MergeType=\"XOR\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(nVTLboMwEPwaH1sBFh9Q0bSn5tJKPTuwASvGRrabhHx9ba9RgUKaVEKydvYx4/UuhBamYR2QLJGsBUKfSZa9ggTNBL8wy5UslJRQWqWdx4U1GJMmCdqnmc1M56IRPDLN2U4AeozV6gAnXtlYg8sGNLfeSzckeXIx/qNFiZSO3Ew8I78rxrh0uckZiyWPOdL00UarcwwtWNBRJqI/d90G4OV2minJQPoXzeedNOn/aDb33mbWtPQ2mvcFGlo4ZO3haLFj5aHW6ktWi+JACN4ZWO3z8qzNZnH53nsuBI7eouQVYS5PabiieK+kNfziJYcjKKH5NSE+w/YipIRz1N3lFAtni5uDsSTL30DX8NH7lY1vFzuWT1s2mG6Pa4lQCdK/aYCPI7zlVTUsaYAf8J8wGQnBSmiUqECbdd2ho78aF9BY0gPf);whiteSpace=wrap;html=1;aspect=fixed;noLabel=1;_ElementType=GeneralizationMerge;allowArrows=0;perimeter=ellipsePerimeter;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"25\" height=\"25\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 25,
+    "h": 25,
+    "aspect": "fixed",
+    "title": "XOR Generalization Marker"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" MergeType=\"OR\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(nVTLboMwEPwaH1sBFh9Q0bSn5tJKPTuwASvGRrabhHx9ba9RgUKaVEKydvYx4/UuhBamYR2QLJGsBUKfSZa9ggTNBL8wy5UslJRQWqWdx4U1GJMmCdqnmc1M56IRPDLN2U4AeozV6gAnXtlYg8sGNLfeSzckeXIx/qNFiZSO3Ew8I78rxrh0uckZiyWPOdL00UarcwwtWNBRJqI/d90G4OV2minJQPoXzeedNOn/aDb33mbWtPQ2mvcFGlo4ZO3haLFj5aHW6ktWi+JACN4ZWO3z8qzNZnH53nsuBI7eouQVYS5PabiieK+kNfziJYcjKKH5NSE+w/YipIRz1N3lFAtni5uDsSTL30DX8NH7lY1vFzuWT1s2mG6Pa4lQCdK/aYCPI7zlVTUsaYAf8J8wGQnBSmiUqECbdd2ho78aF9BY0gPf);whiteSpace=wrap;html=1;aspect=fixed;noLabel=1;_ElementType=GeneralizationMerge;allowArrows=0;perimeter=ellipsePerimeter;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"25\" height=\"25\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 25,
+    "h": 25,
+    "aspect": "fixed",
+    "title": "OR Generalization Marker"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" MergeType=\"AND\" id=\"2\"&gt;&lt;mxCell style=\"shape=stencil(nVTLboMwEPwaH1sBFh9Q0bSn5tJKPTuwASvGRrabhHx9ba9RgUKaVEKydvYx4/UuhBamYR2QLJGsBUKfSZa9ggTNBL8wy5UslJRQWqWdx4U1GJMmCdqnmc1M56IRPDLN2U4AeozV6gAnXtlYg8sGNLfeSzckeXIx/qNFiZSO3Ew8I78rxrh0uckZiyWPOdL00UarcwwtWNBRJqI/d90G4OV2minJQPoXzeedNOn/aDb33mbWtPQ2mvcFGlo4ZO3haLFj5aHW6ktWi+JACN4ZWO3z8qzNZnH53nsuBI7eouQVYS5PabiieK+kNfziJYcjKKH5NSE+w/YipIRz1N3lFAtni5uDsSTL30DX8NH7lY1vFzuWT1s2mG6Pa4lQCdK/aYCPI7zlVTUsaYAf8J8wGQnBSmiUqECbdd2ho78aF9BY0gPf);whiteSpace=wrap;html=1;aspect=fixed;noLabel=1;_ElementType=GeneralizationMerge;allowArrows=0;perimeter=ellipsePerimeter;metaEdit=1;rotatable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"25\" height=\"25\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 25,
+    "h": 25,
+    "aspect": "fixed",
+    "title": "AND Generalization Marker"
+  }
+]</mxlibrary>
